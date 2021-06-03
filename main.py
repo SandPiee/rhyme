@@ -1,7 +1,7 @@
-from config import TOKEN
 import discord
 from discord.ext import commands
 bot = commands.Bot(command_prefix='>')
+TOKEN = 'NTg0ODAzMTczMTE0NTc2OTA1.XPQOZQ.BvcIzsjG7sir7plH3Pa-bNoeA2I'
 
 yes = ['да', 'да!', 'да?', 'да.']
 a = ['а', 'а!', 'а?', 'а.']
